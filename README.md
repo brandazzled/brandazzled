@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandazzled
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning learning about the cloud
+- 👀 I’m transitioning into tech
+- 🌱 I’m currently learning about the cloud
 - 💞️ I’m looking to collaborate on projects for beginners
 - 📫 How to reach me: brandajt@gmail.com
 
