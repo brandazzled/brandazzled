@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @brandazzled
 - 👀 I’m transitioning into tech
-- 🌱 I’m currently learning about the cloud
-- 💞️ I’m looking to collaborate on projects for beginners
+- 🌱 I’m currently learning Kotlin
+- 💞️ I’m working towards building an app centered around food that will help others
 - 📫 How to reach me: brandajt@gmail.com
 
 <!---
